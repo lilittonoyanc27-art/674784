@@ -1,0 +1,6 @@
+{
+  "name": "Ֆուտբոլիստի Վիկտորինա - ¿Qué harías si fueras futbolista?",
+  "description": "Ինտերակտիվ վիկտորինա իսպաներեն-հայերեն «Ո՞վ է ուզում դառնալ միլիոնատեր» ոճով՝ 30 ֆուտբոլային իրավիճակներով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
